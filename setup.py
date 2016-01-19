@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 setup(
     name='pyicloud',
     version='0.7.3',
-    url='https://github.com/d3xt3-bitstechlab/pyicloud/tree/master/pyicloud',
+    url='https://github.com/d3xt3-bitstechlab/icloud',
     description=(
        
     ),
